@@ -19,7 +19,7 @@
 - 👯 Open to collaboration in **AI research, machine learning, and data analysis projects**
 - 💬 Ask me about **Python, SQL, BI tools**
 - 📫 How to reach me: **[contact.udaykiranvanapalli@gmail.com](mailto:contact.udaykiranvanapalli@gmail.com)**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1TcRNAblOgWxfmA6HUw85oUNr3cJWNit2/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1Fdm7XI5Bh-Wp2W7PeVpNG18H-RNQMFj4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
